@@ -1,5 +1,4 @@
-
-# Go Natural Date
+# Go Natural Date.
 
 Natural date time parsing for Go. This package was designed for parsing human-friendly relative date/time ranges in [Apex Logs](https://apex.sh/logs/)' command-line log search.
 
